@@ -1,6 +1,6 @@
 # ninja-sansa
 
-A Clojure library designed to ... well, that part is up to you.
+Boxes with numbers and things. Clojurescript
 
 ## Usage
 
